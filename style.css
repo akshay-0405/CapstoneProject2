@@ -1,0 +1,23 @@
+#Web{
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 20%;
+    padding: 3px;
+}
+
+.hero{
+    background: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
+}
+
+#profile-pic{
+    display: flex;
+    justify-content: center;
+}
+
+.hero .container{
+    display: flex;
+    align-items: center;
+}
+.hero .container .row{
+    width: 100%;
+}
